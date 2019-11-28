@@ -1,0 +1,38 @@
+#Check color from web color : http://wow.in.th/PptJ
+
+red_color = ['INDIANRED', 'LIGHTCORAL', 'SALMON', 'DARKSALMON', 'LIGHTSALMON', 'CRIMSON', 'RED', 'FIREBRICK', 'DARKRED']
+pink_color = ['PINK', 'LIGHTPINK', 'HOTPINK', 'DEEPPINK', 'MEDIUMVIOLETRED', 'PALEVIOLETRED']
+orenge_color = ['LIGHTSALMON', 'CORAL', 'TOMATO', 'ORANGERED', 'DARKORANGE', 'ORANGE']
+yellow_color = ['GOLD', 'YELLOW', 'LIGHTYELLOW', 'LEMONCHIFFON', 'LIGHTGOLDENRODYELLOW', 'PAPAYAWHIP', 'MOCCASIN', 'PEACHPUFF', 'PALEGOLDENROD', 'KHAKI', 'DARKKHAKI']
+purple_color = ['THISTLE', 'PLUM', 'VIOLET', 'ORCHID', 'FUCHSIA', 'MAGENTA', 'MEDIUMORCHID','MEDIUMPURPLE', 'REBECCAPURPLE', 'BLUEVIOLET', 'DARKVIOLET','DARKORCHID','DARKMAGENTA','PURPLE','INDIGO', 'SLATEBLUE', 'DARKSLATEBLUE', 'MEDIUMSLATEBLUE']
+green_color = ['GREENYELLOW', 'CHARTREUSE', 'LAWNGREEN', 'LIME', 'LIMEGREEN', 'PALEGREEN', 'LIGHTGREEN', 'MEDIUMSPRINGGREEN', 'SPRINGGREEN', 'MEDIUMSEAGREEN', 'SEAGREEN', 'FORESTGREEN', 'GREEN', 'DARKGREEN', 'YELLOWGREEN', 'OLIVEDRAB', 'OLIVE', 'DARKOLIVEGREEN', 'MEDIUMAQUAMARINE','DARKSEAGREEN', 'LIGHTSEAGREEN', 'DARKCYAN', 'TEAL']
+blue_color = ['AQUA', 'CYAN', 'LIGHTCYAN', 'PALETURQUOISE', 'AQUAMARINE', 'TURQUOISE', 'MEDIUMTURQUOISE', 'DARKTURQUOISE','CADETBLUE', 'STEELBLUE', 'LIGHTSTEELBLUE', 'POWDERBLUE', 'LIGHTBLUE', 'SKYBLUE', 'LIGHTSKYBLUE','DEEPSKYBLUE','DODGERBLUE', 'CORNFLOWERBLUE', 'MEDIUMSLATEBLUE', 'ROYALBLUE', 'BLUE', 'MEDIUMBLUE', 'DARKBLUE', 'NAVY', 'MIDNIGHTBLUE']
+brown_color = ['CORNSILK', 'BLANCHEDALMOND', 'BISQUE', 'NAVAJOWHITE', 'WHEAT', 'BURLYWOOD', 'TAN', 'ROSYBROWN', 'SANDYBROWN', 'GOLDENROD', 'DARKGOLDENROD','PERU', 'CHOCOLATE','SADDLEBROWN', 'SIENNA', 'BROWN', 'MAROON']
+white_color = ['LAVENDER', 'WHITE', 'SNOW', 'HONEYDEW', 'MINTCREAM', 'AZURE', 'ALICEBLUE', 'GHOSTWHITE', 'WHITESMOKE', 'SEASHELL', 'BEIGE', 'OLDLACE', 'FLORALWHITE', 'IVORY', 'ANTIQUEWHITE', 'LINEN', 'LAVENDERBLUSH', 'MISTYROSE']
+gray_color = ['GAINSBORO', 'LIGHTGRAY', 'SILVER', 'DARKGRAY', 'GRAY','DIMGRAY', 'LIGHTSLATEGRAY', 'SLATEGRAY', 'DARKSLATEGRAY', 'BLACK']
+
+
+color = 'lavender'
+
+if (color.upper() in red_color):
+    print('RED')
+elif (color.upper() in pink_color):
+    print('PINK')
+elif (color.upper() in orenge_color):
+    print('ORANGE')
+elif (color.upper() in yellow_color):
+    print('YELLOW')
+elif (color.upper() in purple_color):
+    print('PURPLE')
+elif (color.upper() in green_color):
+    print('GREEN')
+elif (color.upper() in blue_color):
+    print('BLUE')
+elif (color.upper() in brown_color):
+    print('BROWN')
+elif (color.upper() in white_color):
+    print('WHITE')
+elif (color.upper() in gray_color):
+    print('GRAY')
+else:
+    print('ai cant find color ...')

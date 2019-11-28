@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Test_File</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+</head>
+<style>
+  body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body>
+  <div class="container">
+    <br>
+    <div class="bg-white ">
+      <nav class="nav nav-pills nav-justified">
+        <a class="nav-item nav-link active btn btn-dark" href="/home">Home</a>
+        <a class="nav-item nav-link text-dark" href="/">Data</a>
+        <a class="nav-item nav-link text-dark" href="/about">About Us.</a>
+        <a class="nav-item nav-link text-dark" href="/inserts">Inserts</a>
+        <!-- <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
+      </nav>
+      <hr class="style14">
+      <header>
+        <h1 align="center"><b>Project Car</b></h1>
+        <h3 align="center">Welcome to project car detection <span class="badge badge-secondary">.Ai</span></h3>
+        <hr class="style1">
+      </header>
+    </div>
+    <div class="col-sm-12 text-center">
+      <a href="/" class="btn btn-danger">Back</a>
+      <a href="/inserts" class="btn btn-dark">Insert</a>
+      <hr class="style1">
+    </div>
+  </div>
+  <div class="container">
+    <table class="table table-bordered">
+      <thead>
+        <tr class="p-3 mb-2 bg-dark text-dark">
+          <th class="text-white bg-dark text-center">ลำดับที่</th>
+          <th class="text-white bg-dark text-center">ยี่ห้อ</th>
+          <th class="text-white bg-dark text-center">ความเร็ว</th>
+          <th class="text-white bg-dark text-center">สี</th>
+          <th class="text-white bg-dark text-center">รูปภาพ</th>
+          <th class="text-white bg-dark text-center">เครื่องมือ</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><img src="{{url_for('static', filename='images/bankdark.jpg')}}" alt="image" border=3 height=200 width=200></img></td>
+        </tr>
+      </tbody>
+      <tbody>
+        {% for row in datas %}
+        <tr>
+          <td class="text-center">{{row.0}}</td>
+          <td class="text-center">{{row.1}}</td>
+          <td class="text-center">{{row.2}}</td>
+          <td class="text-center">{{row.3}}</td>
+          <td></td>
+          <td class="text-center">
+            <a href="" class="btn btn-warning btn-xs" data-toggle="modal" data-target="">Edit</a>
+            <a href="" class="btn btn-danger btn-xs" onclick="return confirm('คุณต้องการลบข้อมูลหรือไม่?')">Delete</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <section class="row">
+    {% for image in images %}
+    <!-- <section class="col-md-4 col-sm-6" style="background-color: green;"> -->
+    <!-- <a href="{{ url_for('static', filename='images/' + image) }}">{{ image }}</a> -->
+    <img src="{{ url_for('static', filename='images/' + image) }}" alt="image">
+    <!-- </section> -->
+    {% endfor %}
+  </section>
+  <!-- <img class="card-img-top" src="{{url_for('static', filename='images/bankdark.jpg')}}"> -->
+</body>
+</html>

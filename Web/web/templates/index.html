@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Data</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> -->
+</head>
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+p.indent{ padding-left: 1.8em }
+</style>
+<body>
+  <div class="container">
+    <header class="w3-container w3-center w3-padding-32">
+      <br>
+      <div class="bg-white ">
+        <nav class="nav nav-pills nav-justified">
+          <a class="nav-item nav-link text-dark" href="/home">Home</a>
+          <a class="nav-item nav-link btn btn-dark active" href="/">Data</a>
+          <a class="nav-item nav-link text-dark" href="/about">About Us.</a>
+          <a class="nav-item nav-link text-dark" href="/inserts">Inserts</a>
+          <!-- <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
+        </nav>
+        <hr class="style14">
+        <h1 align="center"><b>Project Car</b></h1>
+        <!-- <p align="center">Welcome to project car detection .Ai</p> -->
+        <h3 align="center">Welcome to project car detection <span class="badge badge-secondary">.Ai</span></h3>
+        <hr class="style1">
+      </header>
+      <div class="container">
+        <div class="row">
+
+          <div class="col-sm-12 text-right">
+            <!-- <a href="/inserts" class="btn btn-success">Insert Data</a>
+            <a href="/about" class="btn btn-dark">About Us</a> -->
+
+            <a href="/delete" class="btn btn-danger">Clear Database</a>
+            <hr class="style14">
+          </div>
+        </div>
+        <br>
+      </div>
+      <!-- <h1 align="center">Welcome to Car.Ai </h1> -->
+      <table class="table table-bordered">
+        <thead>
+          <tr class="p-3 mb-2 bg-dark text-dark">
+            <th class="text-white bg-dark text-center">ลำดับที่</th>
+            <th class="text-white bg-dark text-center">ยี่ห้อ</th>
+            <th class="text-white bg-dark text-center">ความเร็ว</th>
+            <th class="text-white bg-dark text-center">สี</th>
+            <th class="text-white bg-dark text-center">รูปภาพ</th>
+            <th class="text-white bg-dark text-center">เครื่องมือ</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in datas %}
+          <tr>
+            <td class="text-center">{{row.0}}</td>
+            <td class="text-center">{{row.1}}</td>
+            <td class="text-center">{{row.2}}</td>
+            <td class="text-center">{{row.3}}</td>
+            <td align="center"><img src="{{ url_for('static', filename= row.4) }}" alt="image" border=3 height=200 width=200></img></td>
+            <td class="text-center">
+              <!-- <a href="" class="btn btn-warning btn-xs" data-toggle="modal" data-target="">Edit</a> -->
+              <!-- <a href="" class="btn btn-danger btn-xs" onclick="return confirm('Delete ?')">Delete</a> -->
+              <a href="/delete/{{ row.0 }}" class="btn btn-danger btn-xs" onclick="return confirm('Delete ?')">Delete</a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <a href="/inserts" class="btn btn-success">Insert Data</a>
+            <a href="/" class="btn btn-dark">Move to top</a>
+            <a href="/delete" class="btn btn-danger">Clear Database</a>
+          </div>
+        </div>
+        <br>
+      </div>
+      <!-- {% for row in datas %}
+      <p>ID : {{ row.0 }} Brand : {{ row.1 }} Speed : {{ row.2 }} </p>
+      <hr>
+      {%endfor%} -->
+    </div>
+  </body>
+  </html>

@@ -1,0 +1,1278 @@
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_25.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_26.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_27.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_28.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_29.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_30.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_31.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_32.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_33.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_34.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_35.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_36.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_37.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_38.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_39.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_40.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_41.png'
+logo : 'SUZUKI'
+-------------------------------------------
+image : 'color_car\\car_42.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_43.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_44.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_45.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_46.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_47.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_48.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_49.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_50.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_51.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_52.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_53.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_54.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_55.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_56.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_57.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_58.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_59.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_60.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_61.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_62.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_63.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_64.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_65.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_66.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_67.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_68.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_69.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_70.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_25.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_26.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_27.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_28.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_29.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_30.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_31.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_32.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_25.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_26.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_27.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_28.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_29.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_30.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_31.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_32.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_33.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_34.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_35.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_36.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_37.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_2.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_3.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_4.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_5.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_6.png'
+logo : 'HONDA'
+-------------------------------------------
+image : 'color_car\\car_7.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_8.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_9.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_10.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_11.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_12.png'
+logo : 'MISZUBISHI'
+-------------------------------------------
+image : 'color_car\\car_13.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_14.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_15.png'
+logo : 'CHEVRORET'
+-------------------------------------------
+image : 'color_car\\car_16.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_17.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_18.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_19.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_20.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_21.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_22.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_23.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_24.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_25.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_26.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_27.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_28.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_29.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_30.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_31.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_32.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_33.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_34.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_35.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_36.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_37.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_38.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_39.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_40.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_41.png'
+logo : 'SUZUKI'
+-------------------------------------------
+image : 'color_car\\car_42.png'
+logo : 'ISUZU'
+-------------------------------------------
+image : 'color_car\\car_43.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_44.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_45.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_46.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_47.png'
+logo : 'OTHER'
+-------------------------------------------
+image : 'color_car\\car_48.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_49.png'
+logo : 'TOYOTA'
+-------------------------------------------
+image : 'color_car\\car_1.png'
+logo : 'HONDA'
+-------------------------------------------

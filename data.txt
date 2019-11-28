@@ -1,0 +1,1278 @@
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_25.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_26.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_27.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_28.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_29.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_30.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_31.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_32.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_33.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_34.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_35.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_36.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_37.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_38.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_39.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_40.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_41.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_42.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_43.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_44.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_45.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_46.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_47.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_48.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_49.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_50.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_51.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_52.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_53.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_54.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_55.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_56.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_57.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_58.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_59.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_60.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_61.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_62.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_63.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_64.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_65.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_66.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_67.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_68.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_69.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_70.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_25.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_26.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_27.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_28.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_29.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_30.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_31.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_32.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_25.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_26.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_27.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_28.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_29.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_30.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_31.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_32.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_33.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_34.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_35.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_36.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_37.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_2.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_3.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_4.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_5.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_6.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_7.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_8.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_9.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_10.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_11.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_12.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_13.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_14.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_15.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_16.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_17.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_18.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_19.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_20.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_21.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_22.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_23.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_24.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_25.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_26.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_27.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_28.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_29.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_30.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_31.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_32.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_33.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_34.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_35.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_36.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_37.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_38.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_39.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_40.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_41.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_42.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_43.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_44.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_45.png'
+-------------------------------------------
+colour name : 'GRAY'
+colour name : 'car_46.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_47.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_48.png'
+-------------------------------------------
+colour name : 'BLUE'
+colour name : 'car_49.png'
+-------------------------------------------
+colour name : 'WHITE'
+colour name : 'car_1.png'
+-------------------------------------------

@@ -17,15 +17,11 @@ def plot_colors(hist, centroids):
     c1 = 0
     c2 = 0
     c3 = 0
-    # print("Max : {:.3f}".format(max(hist)))
     for (percent, color) in zip(hist, centroids):  # True
-        # print("color is : ",color)
-        # print("percent ", percent, "total color ", len(color), "color[0]",color[0], "color[1]", color[1], "color[2]", color[2])
         if percent > 0.4:
             c1 = int(color[0])
             c2 = int(color[1])
             c3 = int(color[2])
-            # print("Color[1]:{:d} | Color[2]:{:d} | Color[3]:{:d}".format(c1,c2,c3)) #disable
             return [bar, c1, c2, c3]
 
         endX = startX + (percent * 300)
